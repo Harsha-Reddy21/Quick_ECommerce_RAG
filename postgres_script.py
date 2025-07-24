@@ -7,7 +7,7 @@ from psycopg2 import sql
 DB_CONFIG = {
     'dbname': 'ecommerce',
     'user': 'postgres',
-    'password': 'password,
+    'password': 'password',
     'host': 'localhost',
     'port': '5432'
 }
